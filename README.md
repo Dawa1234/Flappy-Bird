@@ -6,6 +6,7 @@ A new Flutter project.
 
 # Startup Screen
 <img width="340" alt="Screenshot 2023-04-18 at 15 53 05" src="https://user-images.githubusercontent.com/78782368/232745075-19263132-c77a-4095-b827-683aaf4a7d9f.png">
+
 # On Play Screen
 <img width="339" alt="Screenshot 2023-04-18 at 15 53 28" src="https://user-images.githubusercontent.com/78782368/232745185-e2d8c42d-3b4d-4359-958c-354d623511a9.png">
 This project is a starting point for a Flutter application.
