@@ -1,4 +1,4 @@
-# flappy_bird1
+# Flappy bird
 
 A new Flutter project.
 
